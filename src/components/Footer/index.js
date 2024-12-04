@@ -88,7 +88,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Roshni Kumari</Logo>
+        <Logo>Yash Chaudhari</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -104,7 +104,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; Made with ❤ by Roshni Kumari. All rights reserved.
+          &copy; Made with ❤ by Yash Chaudhari. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
