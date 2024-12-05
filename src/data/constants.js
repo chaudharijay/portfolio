@@ -1,3 +1,5 @@
+import { Email } from "@mui/icons-material";
+
 export const Bio = {
   name: "Yash Chaudhari",
   roles: [
@@ -12,9 +14,7 @@ export const Bio = {
   resume:
     "https://drive.google.com/file/d/1nS62JRfBLOhrSfy2pNmvUqrMmwZVXK-M/view?usp=sharing",
   linkedin: "www.linkedin.com/in/yash-chaudhari-a100451abx",
-  twitter: "",
-  insta: "",
-  facebook: "",
+  email: "mailto:jaychaudhari31103@gmail.com",
 };
 
 export const skills = [
