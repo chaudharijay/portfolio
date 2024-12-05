@@ -11,9 +11,8 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/chaudharijay",
-  resume:
-    "https://drive.google.com/file/d/1nS62JRfBLOhrSfy2pNmvUqrMmwZVXK-M/view?usp=sharing",
-  linkedin: "www.linkedin.com/in/yash-chaudhari-a100451abx",
+  resume: "https://drive.google.com/file/d/1nS62JRfBLOhrSfy2pNmvUqrMmwZVXK-M/view?usp=sharing",
+  linkedin: "www.linkedin.com/in/yash-chaudhari-a100451ab",
   email: "mailto:jaychaudhari31103@gmail.com",
 };
 
@@ -242,6 +241,38 @@ export const experiences = [
       "Sklearn",
     ],
     doc: "", 
+  },
+  {
+    id: 0,
+    img: "https://media.licdn.com/dms/image/v2/D4D0BAQG6WjC5IP6LrQ/company-logo_200_200/company-logo_200_200/0/1722060939613/brocode_codingclub_logo?e=1741219200&v=beta&t=5DGrixjM_X_j7X5mD-NjIjCiMQlv5tgaM7MDkoI26D8",
+    role: "Co-Founder",
+    company: "Coding Club",
+    date: "Sep 2023 - June 2024",
+    desc: "Worked and Conducted Seminars, bootcamps and Competitions for College students about various technologies.",
+    skills: [
+      "Communication",
+      "Leadership",
+      "Presentation",
+      "Organize",
+    ],
+    doc: "", 
+  },
+  {
+    id: 0,
+    img: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tata_logo.svg",
+    role: "Data Science Intern",
+    company: "Tata",
+    date: "Sep 2023 - June 2024",
+    desc: " Data Visualisation: Empowering Business with Effective Insights",
+    skills: [
+      "Data Analysis",
+      "Data Visualization",
+      "Data Cleaning",
+      "Interpreting Data",
+      "SciPy",
+      "Sklearn",
+    ],
+    doc: "", 
   }
 ];
 
@@ -275,12 +306,12 @@ export const education = [
 export const projects = [
   {
     id: 9,
-    title: "Quora",
+    title: "Quora Duplicate Questions",
     date: "Jun 2024 - Jul 2024",
     description:
       "Kaggle competition project where grouping simiilar questions can solve heavy computation and provide more accurate answers.",
     image:
-      "",
+      "https://nytroseo.com/wp-content/uploads/2022/03/quora_falha.png",
     tags: [
       "Python",
       "Streamlit",
@@ -298,12 +329,12 @@ export const projects = [
 
   {
     id: 1,
-    title: "T20",
+    title: "T20 Score Predictor",
     date: "Oct 2024 - Nov 2024",
     description:
       "Using Machine Learning T20 can predict the performance(score) of a cricket team for a respective match may be past or future. ",
     image:
-      "",
+      "https://mir-s3-cdn-cf.behance.net/projects/404/14bcb1151607965.Y3JvcCwxMDgwLDg0NCwwLDE0OQ.jpg",
     tags: [
       "Python",
       "Machine Learning",
@@ -317,12 +348,12 @@ export const projects = [
   },
   {
     id: 9,
-    title: "Youtuber's Info",
+    title: "Youtuber's Info using API",
     date: "Nov 2024 - Dec 2024",
     description:
       "Using Youtubes API this notebook gives user all the information about their favorite youtuber's channel. Just replace youtube channel ID",
     image:
-      "",
+      "https://brettmhoffman.com/wp-content/uploads/2015/10/youtube.jpg",
     tags: [
       "Python",
       "Pandas",
@@ -339,12 +370,12 @@ export const projects = [
   },
   {
     id: 0,
-    title: "Placement Prediction",
+    title: "Placement Prediction using ML",
     date: "Jan 2024 - May 2024",
     description:
       "Placement Prediction is a WebApp where students can predict their chances of getting placed with new criterias in the market.",
     image:
-      "",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6brPqI_08UqbkrfwhFevRzKTZ4FRI9rAHUQ&s",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "AI/ML", "Data Science"],
     category: "android app",
     github: "https://github.com/chaudharijay/Campus-Placement-Predictor-Webapp-Using-ML.git",
