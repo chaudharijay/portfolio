@@ -128,7 +128,7 @@ export const skills = [
     ],
   },
   {
-    title: "Others",
+    title: "Familiar With",
     skills: [
       {
         name: "Git",
@@ -165,6 +165,15 @@ export const skills = [
 ];
 
 export const certifications = [
+  {
+    id:0,
+    company: "ExcelR Pvt. Ltd.",
+    img: "https://images.yourstory.com/cs/images/companies/acedbe7dc385-Logo800X800011-1682327731413.jpg",
+    date: "July 2024 - july 2025",
+    desc: "ExcelR is a global leader delivering a wide gamut of management and technical training over 40 countries. We are a trusted training delivery partner of 400+ corporate clients and universities/educational institutions across the globe with 150,000+ professionals trained across various courses.",
+    tag: "Data Science & Machine Learning",
+    doc: "https://drive.google.com/file/d/1h1RcEtNq0qfXRnrTrxdImSnX36WP1nA2/view?usp=sharing",
+  },
 
   {
     id: 0,
@@ -225,6 +234,23 @@ export const certifications = [
   }
 ]
 export const experiences = [
+  {
+    id: 0,
+    img: "https://media.glassdoor.com/sqll/4170372/ai-variant-squarelogo-1661349299674.png",
+    role: "Data Scientist",
+    company: "Ai Variant Pvt. Ltd.",
+    date: "Oct 2024 - Jan 2025",
+    desc: " Worked on a Bankruptcy Prediction Machine Learning model to predict if a company is financially stable or not based on various factors.",
+    skills: [
+      "Python",
+      "Streamlit",
+      "Pandas",
+      "Matplotlib",
+      "Numpy",
+      "Sklearn",
+    ],
+    doc: "https://drive.google.com/file/d/1Q9hTD0ZsN1-vzArhMLRqDnsIm70__oh_/view?usp=sharing", 
+  },
   {
     id: 0,
     img: "",
@@ -304,6 +330,27 @@ export const education = [
 ];
 
 export const projects = [
+  {
+    id: 9,
+    title: "Cosine Similarity Between Sentence",
+    date: "",
+    description:
+      "Derive the sentiment and cosine similarity between multiple sentences using HuggingFace.",
+    image:
+      "https://huggingface.co/datasets/huggingface-ml-4-games-course/course-images/resolve/main/en/unit1/unity/sentence-similarity.jpg",
+    tags: [
+      "Python",
+      "Streamlit",
+      "NLP",
+      "Transformers",
+      "HuggingFace",
+      "Pickle",
+      
+    ],
+    category: "web app",
+    github: "https://github.com/chaudharijay/Cosine-Similarity.git",
+    webapp: "https://check-cosine-similarity.streamlit.app/",
+  },
   {
     id: 9,
     title: "Quora Duplicate Questions",
