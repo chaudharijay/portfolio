@@ -172,7 +172,7 @@ export const ResumeButton = styled.a`
     -moz-appearance: button;
     appearance: button;
     text-decoration: none;
-    width: 95%;
+    width: 100%;
     max-width: 100px;
     text-align: center;
     padding: 16px 25px;
