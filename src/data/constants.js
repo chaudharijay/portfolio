@@ -11,7 +11,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/chaudharijay",
-  resume: "https://drive.google.com/file/d/1nS62JRfBLOhrSfy2pNmvUqrMmwZVXK-M/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1d7cSH1oJDx-7cpVN80z2FBAzV9LE-j-c/view?usp=sharingnew ",
   linkedin: "www.linkedin.com/in/yash-chaudhari-a100451ab",
   email: "mailto:jaychaudhari31103@gmail.com",
 };
